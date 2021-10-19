@@ -1,0 +1,17 @@
+    <resources>
+    <string name="app_name">radiobutton</string>
+    <string name="txtModulo" >MODULO:</string>
+        <string name="txtTurno" >TURNO:</string>
+        <string name="txtIncluirIva" >Incluir IVA</string>
+        <string name="txtCalcularImmporte" >CALCULAR IMPORTE</string>
+        <string name="btnDam" >DAM</string>
+        <string name="btnDaw" >DAW</string>
+        <string name="btnAsir" >ASIR</string>
+        <string name="btnManiana" >Mañana</string>
+        <string name="btnTarde" >Tarde</string>
+        <string name="btnOnline" >Online</string>
+        <string name="txtNombre" >Nombre</string>
+
+
+
+    </resources>
